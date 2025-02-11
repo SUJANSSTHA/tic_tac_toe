@@ -46,11 +46,11 @@ https://github.com/SUJANSSTHA/tic_tac_toe.git
   <img src="https://github.com/user-attachments/assets/9188d7a2-5dd2-4441-9cce-fcc28a656af8" width="22%">
   <img src="https://github.com/user-attachments/assets/e2afa0b9-c22b-481b-9caf-f55dbf5c51f9" width="22%">
 </p>
+
 ## Download APK  
-You can download the latest release of the Tic Tac Toe app using the link below:  
-
-
+You can download the latest release of the **Tic Tac Toe** app using the link below:  project is.
 📥 **[Download APK](https://drive.google.com/file/d/1YfOh0IBtZ43R5N0EDFmnUodogSdCEQx4/view?usp=drive_link)**  
+
 
 
 ## License  
